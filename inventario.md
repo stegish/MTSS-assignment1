@@ -11,5 +11,6 @@
 ## PERIFERICHE
 
 - [tastiere](./periferiche/tastiere.md)
+- [mouse](./periferiche/mouse.md)
 
 Elettronica Padovana
