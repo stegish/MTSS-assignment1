@@ -3,4 +3,6 @@
 
 # INVENTARIO
 
+- [Processori](./processori.md)
 - [schede madri](./schede_madri.md)
+
